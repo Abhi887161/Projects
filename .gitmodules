@@ -1,0 +1,6 @@
+[submodule "FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORMM.gitmodules"]
+	path = FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORMM.gitmodules
+	url = https://github.com/Abhi887161/Projects.git
+[submodule "FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORMM"]
+	path = FULLSTACK-ECS-FARGATE-THROUGH-TERRAFORMM
+	url = https://github.com/Abhi887161/Projects.git
